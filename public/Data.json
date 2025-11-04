@@ -1,0 +1,182 @@
+[
+  {
+    "image": "https://source.unsplash.com/200x200/?app,1",
+    "title": "TaskMaster Pro",
+    "companyName": "NovaTech",
+    "id": 1,
+    "description": "TaskMaster Pro is a comprehensive productivity suite designed to help teams organize, track, and complete projects efficiently. It offers smart scheduling, time tracking, and collaborative dashboards for agile workflows.",
+    "size": 45,
+    "reviews": 1250,
+    "ratingAvg": 4.6,
+    "downloads": 450000,
+    "ratings": [
+      { "name": "1 star", "count": 45 },
+      { "name": "2 star", "count": 75 },
+      { "name": "3 star", "count": 210 },
+      { "name": "4 star", "count": 380 },
+      { "name": "5 star", "count": 540 }
+    ]
+  },
+  {
+    "image": "https://source.unsplash.com/200x200/?app,2",
+    "title": "FitBuddy",
+    "companyName": "PulseWave Labs",
+    "id": 2,
+    "description": "FitBuddy tracks workouts, sleep patterns, and nutrition while providing AI-powered health insights. It features adaptive plans and real-time progress tracking for fitness enthusiasts and beginners alike.",
+    "size": 62,
+    "reviews": 980,
+    "ratingAvg": 4.4,
+    "downloads": 390000,
+    "ratings": [
+      { "name": "1 star", "count": 32 },
+      { "name": "2 star", "count": 64 },
+      { "name": "3 star", "count": 180 },
+      { "name": "4 star", "count": 300 },
+      { "name": "5 star", "count": 404 }
+    ]
+  },
+  {
+    "image": "https://source.unsplash.com/200x200/?app,3",
+    "title": "FinanceFlow",
+    "companyName": "AstraSoft",
+    "id": 3,
+    "description": "FinanceFlow helps you take control of your spending with smart analytics, budget forecasts, and automated expense categorization. It syncs across all your devices securely for seamless financial management.",
+    "size": 38,
+    "reviews": 2300,
+    "ratingAvg": 4.7,
+    "downloads": 700000,
+    "ratings": [
+      { "name": "1 star", "count": 70 },
+      { "name": "2 star", "count": 90 },
+      { "name": "3 star", "count": 210 },
+      { "name": "4 star", "count": 640 },
+      { "name": "5 star", "count": 1290 }
+    ]
+  },
+  {
+    "image": "https://source.unsplash.com/200x200/?app,4",
+    "title": "StudyHub",
+    "companyName": "BrightPath",
+    "id": 4,
+    "description": "StudyHub is an educational platform offering notes, quizzes, and progress analytics. Students can collaborate, share learning materials, and join study groups to improve academic performance.",
+    "size": 55,
+    "reviews": 1890,
+    "ratingAvg": 4.8,
+    "downloads": 820000,
+    "ratings": [
+      { "name": "1 star", "count": 80 },
+      { "name": "2 star", "count": 100 },
+      { "name": "3 star", "count": 220 },
+      { "name": "4 star", "count": 500 },
+      { "name": "5 star", "count": 990 }
+    ]
+  },
+  {
+    "image": "https://source.unsplash.com/200x200/?app,5",
+    "title": "CookSmart",
+    "companyName": "EpicureAI",
+    "id": 5,
+    "description": "CookSmart is your AI cooking assistant. It suggests recipes based on available ingredients, tracks nutrition, and provides voice-guided cooking instructions for a smooth kitchen experience.",
+    "size": 70,
+    "reviews": 1430,
+    "ratingAvg": 4.5,
+    "downloads": 510000,
+    "ratings": [
+      { "name": "1 star", "count": 60 },
+      { "name": "2 star", "count": 90 },
+      { "name": "3 star", "count": 200 },
+      { "name": "4 star", "count": 440 },
+      { "name": "5 star", "count": 640 }
+    ]
+  },
+  {
+    "image": "https://source.unsplash.com/200x200/?app,6",
+    "title": "MindEase",
+    "companyName": "SerenityWorks",
+    "id": 6,
+    "description": "MindEase helps users reduce stress through guided meditation, breathing exercises, and mindfulness reminders. It includes sleep tracking and mood analysis to support mental well-being.",
+    "size": 50,
+    "reviews": 2100,
+    "ratingAvg": 4.9,
+    "downloads": 940000,
+    "ratings": [
+      { "name": "1 star", "count": 40 },
+      { "name": "2 star", "count": 70 },
+      { "name": "3 star", "count": 190 },
+      { "name": "4 star", "count": 520 },
+      { "name": "5 star", "count": 1280 }
+    ]
+  },
+  {
+    "image": "https://source.unsplash.com/200x200/?app,7",
+    "title": "TravelMate",
+    "companyName": "GlobeTech",
+    "id": 7,
+    "description": "TravelMate simplifies travel planning by suggesting itineraries, booking hotels, and tracking expenses. It offers offline maps and local tips tailored to your destination.",
+    "size": 68,
+    "reviews": 1570,
+    "ratingAvg": 4.3,
+    "downloads": 670000,
+    "ratings": [
+      { "name": "1 star", "count": 100 },
+      { "name": "2 star", "count": 120 },
+      { "name": "3 star", "count": 230 },
+      { "name": "4 star", "count": 480 },
+      { "name": "5 star", "count": 640 }
+    ]
+  },
+  {
+    "image": "https://source.unsplash.com/200x200/?app,8",
+    "title": "NoteVault",
+    "companyName": "ByteNest",
+    "id": 8,
+    "description": "NoteVault is a secure note-taking app with cloud backup, offline access, and handwriting recognition. It’s perfect for students, professionals, and creative thinkers.",
+    "size": 35,
+    "reviews": 870,
+    "ratingAvg": 4.4,
+    "downloads": 300000,
+    "ratings": [
+      { "name": "1 star", "count": 25 },
+      { "name": "2 star", "count": 45 },
+      { "name": "3 star", "count": 130 },
+      { "name": "4 star", "count": 250 },
+      { "name": "5 star", "count": 420 }
+    ]
+  },
+  {
+    "image": "https://source.unsplash.com/200x200/?app,9",
+    "title": "GameSphere",
+    "companyName": "PixelForge",
+    "id": 9,
+    "description": "GameSphere is a gaming hub where players can discover trending titles, join live sessions, and share achievements. It supports leaderboards and community-based challenges.",
+    "size": 90,
+    "reviews": 4200,
+    "ratingAvg": 4.7,
+    "downloads": 1200000,
+    "ratings": [
+      { "name": "1 star", "count": 120 },
+      { "name": "2 star", "count": 150 },
+      { "name": "3 star", "count": 380 },
+      { "name": "4 star", "count": 880 },
+      { "name": "5 star", "count": 2670 }
+    ]
+  },
+  {
+    "image": "https://source.unsplash.com/200x200/?app,10",
+    "title": "PhotoCraft",
+    "companyName": "LumaVision",
+    "id": 10,
+    "description": "PhotoCraft offers professional-grade photo editing tools with AI filters, background removal, and color enhancement. Perfect for photographers and content creators.",
+    "size": 85,
+    "reviews": 3100,
+    "ratingAvg": 4.6,
+    "downloads": 870000,
+    "ratings": [
+      { "name": "1 star", "count": 90 },
+      { "name": "2 star", "count": 120 },
+      { "name": "3 star", "count": 300 },
+      { "name": "4 star", "count": 740 },
+      { "name": "5 star", "count": 1850 }
+    ]
+  }
+]

@@ -1,0 +1,9 @@
+a.active {
+  color: #9F62F2;
+}
+a.pending {
+  color: #6b18de;
+}
+a.transitioning {
+  view-transition-name: my-transition;
+}
