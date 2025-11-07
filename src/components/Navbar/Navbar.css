@@ -1,5 +1,7 @@
 a.active {
   color: #9F62F2;
+  text-decoration: underline;
+  text-decoration-color: #9F62F2;
 }
 a.pending {
   color: #6b18de;

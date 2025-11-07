@@ -42,14 +42,14 @@ function Navbar() {
             </li>
           </ul>
         </div>
-        <a className=" text-xl">
+        <div className=" text-xl">
           <Link to={"/"} className="flex items-center gap-3">
             <img className="w-10 ml-10" src={Logo} alt="" />
             <h1 className="text-2xl font-bold bg-gradient-to-r from-purple-900 via-purple-800 to-purple-700 bg-clip-text text-transparent">
               Hero App
             </h1>
           </Link>
-        </a>
+        </div>
       </div>
       <div className="navbar-center hidden lg:flex">
         <ul className="menu menu-horizontal px-1 text-md font-semibold">
